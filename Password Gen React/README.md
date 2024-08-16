@@ -1,4 +1,4 @@
-## Used three React Hooks
+## Used diff React Hooks for learning 
 
 1. `useState` 
 2. `useEffect` 
